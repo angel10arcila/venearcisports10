@@ -82,7 +82,7 @@ class StreamPlayer {
 
         title: 'Venevisión 🇻🇪',
 
-        url: 'https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8',
+        url: 'https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8',
 
         isLive: true
 
